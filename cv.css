@@ -1,0 +1,40 @@
+*{
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+}
+
+
+
+html {
+
+    font-size: 16px;
+       
+}
+
+
+h1 {color:aqua;}
+
+ul{           
+   color:blueviolet
+   
+
+}
+
+body{ font-size:1rem;
+    color: darkgray;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    text-shadow: #8020b8ad 2px 7px 3px;}
+
+    #info{
+        background-color: black;
+        width: 900px;
+        
+    }#photo>img{
+        width: 30%;
+        
+
+    }
